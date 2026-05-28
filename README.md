@@ -4,7 +4,6 @@
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?logo=discord&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-2024+-FF0000?logo=youtube&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-WAL_Mode-003B57?logo=sqlite&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Discord 음악 봇입니다. 재생 제어, 사용자별 플레이리스트 관리, 재생 기록 기반 자동 DJ 모드를 제공합니다.
 
