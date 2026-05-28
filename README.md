@@ -2,15 +2,15 @@
 Discord_Music_Bot / Discord, Python기반 다기능 음악 봇
 # **Discord Music Bot**
 
-[Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 
-[discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?logo=discord&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?logo=discord&logoColor=white)
 
-[yt-dlp](https://img.shields.io/badge/yt--dlp-2024+-FF0000?logo=youtube&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-2024+-FF0000?logo=youtube&logoColor=white)
 
-[SQLite](https://img.shields.io/badge/SQLite-WAL_Mode-003B57?logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-WAL_Mode-003B57?logo=sqlite&logoColor=white)
 
-[License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 다기능 Discord 음악 봇입니다. 재생 제어, 사용자별 플레이리스트 관리, 재생 기록 기반 자동 DJ 모드를 제공합니다.
 
