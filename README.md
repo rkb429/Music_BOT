@@ -1,7 +1,6 @@
-# Music_BOT
-Discord_Music_Bot / Discord, Python기반 다기능 음악 봇
 🎵 Discord Music Bot
 Python discord.py yt-dlp SQLite License
+
 Discord 음악 봇입니다. 재생 제어, 사용자별 플레이리스트 관리, 재생 기록 기반 자동 DJ 모드를 제공합니다.
 
 ✨ 주요 기능
